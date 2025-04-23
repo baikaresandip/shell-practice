@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "Please enter your name?"
+read -r name  # -r prevents backslash escapes
+
+if [[ "$name" == "Sandy" ]]; then
+    echo "You are the developer"
+else
+    echo "You are not developer"
+fi
