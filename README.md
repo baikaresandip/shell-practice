@@ -4,6 +4,7 @@ This repo contains list f bash file practice done by me. These are basic command
 
 In this repo you will learn below things
 
+- [x] variable
 - [x] Echo
 - [x] Print
 - [x] Pass Arguents
