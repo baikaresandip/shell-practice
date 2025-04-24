@@ -1,13 +1,13 @@
-# Shell Practice
+# Shell Practice 🧑‍💻 🖮
 
 This repo contains list f bash file practice done by me. These are basic commands each DevOps engineer should know.
 
 In this repo you will learn below things
 
-- [x] variable
+- [x] variable 🖮
 - [x] Echo
 - [x] Print
-- [x] Pass Arguents
+- [x] Pass Arguents 📋
 - [x] while statement
 - [x] For statement
 - [x] For with Numbers
